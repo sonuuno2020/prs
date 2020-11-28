@@ -1,2 +1,2 @@
 # prs
-## tkinter.py library is required.
+## tkinter library is required.
